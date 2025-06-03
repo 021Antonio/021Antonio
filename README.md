@@ -19,7 +19,7 @@
 
 ## 📫 How to reach me:
 - Email: antonioribeiro893@gmail.com
-- [LinkedIn](https://linkedin.com) *(add your LinkedIn link here!)*
+- [LinkedIn](https://www.linkedin.com/in/antonioribeiro893/)
 
 ---
 
