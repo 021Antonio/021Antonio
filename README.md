@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello, I'm Antonio 👋
 
-<!--
-**021Antonio/021Antonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at [Inteli - Institute of Technology and Leadership](https://www.inteli.edu.br/).  
+💻 Currently working as a Software Engineering Intern at C6 Bank, developing Backend solutions using Kotlin and Spring Boot.  
+📊 Experienced in Frontend (React), Data Analysis (Python, SQL, Power BI), and DevOps.  
+🚀 Passionate about technology, innovation, and digital accessibility.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Backend**: Kotlin, Spring Boot, Python
+- **Frontend**: React.js, NExt.js
+- **DevOps**: Docker, Cloud
+- **Other Tools**: Git, Linux, MacOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Academic and Professional Experience
+- **C6 Bank**: Software Engineering Intern - Backend (Kotlin | Spring Boot)
+- **BTG Pactual**: Full Stack Intern - React | .NET | DevOps
+- **V.Tal**: Data Analysis Intern - Python | SQL | Power BI
+- **Academic Projects**: Predictive Models, Computer Vision, and Accessibility with AI.
+
+## 📫 How to reach me:
+- Email: antonioribeiro893@gmail.com
+- [LinkedIn](https://linkedin.com) *(add your LinkedIn link here!)*
+
+---
+
+*Always eager to learn and contribute to the tech community 🚀*
